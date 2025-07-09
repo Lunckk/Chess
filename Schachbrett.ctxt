@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Schachbrett
+comment1.params=
+comment1.target=Schachbrett()
+comment2.params=
+comment2.target=void\ aufstellung()
+comment3.params=x\ y
+comment3.target=Schachfigur\ getFigur(int,\ int)
+comment4.params=
+comment4.target=Schachfigur[][]\ getFelder()
+comment5.params=figur\ zielX\ zielY
+comment5.target=void\ fuehreZugAus(Schachfigur,\ int,\ int)
+comment6.params=x\ y\ figur
+comment6.target=void\ setFigur(int,\ int,\ Schachfigur)
+comment7.params=farbe
+comment7.target=Koenig\ findeKoenig(java.lang.String)
+comment8.params=koenigFarbe
+comment8.target=boolean\ istKoenigImSchach(java.lang.String)
+comment9.params=feldX\ feldY\ angreiferFarbe
+comment9.target=boolean\ istFeldBedroht(int,\ int,\ java.lang.String)
+numComments=10

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Dame
+comment1.params=startX\ startY\ farbe
+comment1.target=Dame(int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ setzeSymbol()
+comment3.params=zielX\ zielY\ brett
+comment3.target=boolean\ kannZiehen(int,\ int,\ Schachfigur[][])
+numComments=4

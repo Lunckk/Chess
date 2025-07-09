@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Schachfigur
+comment1.params=startX\ startY\ pFarbe
+comment1.target=Schachfigur(int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ setzeSymbol()
+comment3.params=zielX\ zielY\ brett
+comment3.target=boolean\ kannZiehen(int,\ int,\ Schachfigur[][])
+comment4.params=g\ x\ y\ groesse
+comment4.target=void\ zeichne(java.awt.Graphics,\ int,\ int,\ int)
+comment5.params=neuX\ neuY
+comment5.target=void\ bewegen(int,\ int)
+comment6.params=
+comment6.target=java.lang.String\ getFarbe()
+numComments=7

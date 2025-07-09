@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SchachGUI
+comment1.params=
+comment1.target=SchachGUI()
+comment2.params=
+comment2.target=void\ starteNeuesSpiel()
+comment3.params=
+comment3.target=void\ zeigeStartmenue()
+numComments=4
